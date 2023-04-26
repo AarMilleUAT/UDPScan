@@ -1,0 +1,1 @@
+nmap -sU -sV --version-intensity 9 --max-retries 2 --min-rtt-timeout 100ms --max-rtt-timeout 500ms -p 1-65535 -oN scan_results.txt target_ip_address
