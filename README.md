@@ -1,7 +1,7 @@
 # UDPScan
 In this command, the following options are used:
 
--sU: Specifies a UDP scan.
+-sU: Specifies a UDP scan. /n
 -sV: Enables version detection to determine the version of services running on the target.
 --version-intensity 9: Sets the intensity of version detection to maximum.
 --max-retries 2: Specifies the maximum number of retries for unresponsive ports.
